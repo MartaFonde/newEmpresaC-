@@ -1,0 +1,7 @@
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\obj\Debug\EjercicioTema2.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\obj\Debug\EjercicioTema2.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\bin\Debug\EjercicioTema2.exe.config
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\bin\Debug\EjercicioTema2.exe
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\bin\Debug\EjercicioTema2.pdb
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\obj\Debug\EjercicioTema2.exe
+C:\Users\marta\source\repos\EjercicioTema2\EjercicioTema2\obj\Debug\EjercicioTema2.pdb
